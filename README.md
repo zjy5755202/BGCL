@@ -62,6 +62,11 @@ python run.py
 
 ## Example of running
 
+unzip the dataset first 
+
+example: unzip the rt_user_allData_0.8_0.7_0.500_0.005.7z to get rt_user_allData_0.8_0.7_0.500_0.005.p for running
+
+
 ~~~
 Dataset: wsdream
 Density: 0.005
